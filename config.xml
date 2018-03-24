@@ -13,6 +13,7 @@
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-	<plugin name="cordova-plugin-device" spec="~1.1.3" />	
+    <plugin name="Accelerometer" value="org.apache.cordova.AccelListener" />
+	
 
 </widget>
