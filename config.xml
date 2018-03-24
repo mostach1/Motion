@@ -13,7 +13,7 @@
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-    <plugin name="org.apache.cordova.device-motion" version="0.2.10" />
+    <plugin name="cordova-plugin-device-motion" source="npm" version="2.0.0"/>
 	
 
 </widget>
